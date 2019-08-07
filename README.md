@@ -34,5 +34,6 @@ Then, place the file in the _p1_navigation/_ folder in the DRLND GitHub reposito
 ------
 
 To train the agent, follow the steps in Navigation_training.ipynb
+
 To see the agent navigate in the environment, follew the steps in Navigation_testing.ipynb
 
