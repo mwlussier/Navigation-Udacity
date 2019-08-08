@@ -12,8 +12,7 @@ The model architecture is three fully connected layers. The two first hidden lay
 
 ![alt text](https://github.com/mwlussier/Navigation-Udacity/blob/master/images/dqn.PNG)
 
-
-Using the same hyperparameter except for the Epsilon Decay (which we dropped to 0.70), we've reached the maximum average score over 100 episodes of 15.0 in more or less 7 minutes (using CPU)
+Using the same hyperparameter except for the Epsilon Decay (which we dropped to 0.70), we've reached the maximum average score over 100 episodes of 15.0 in less than 300 episodes.
 
 
 ## Double Deep-Q Network
