@@ -1,6 +1,6 @@
 # Navigation-Udacity
 The objectif of this project is to train an agent to navigate in a large square world while collecting specific objects.
-The project environment is provided by Udacity and is similar to, but not identical to the Banana Collecctor environment on the Unity ML-Agents GitHub page.
+The project environment is provided by Udacity and is similar to, but not identical to the Banana Collecctor environment on the [Unity ML-Agents GitHub](https://github.com/Unity-Technologies/ml-agents) page.
 
 The environment is a large square world filled with yellow and blue bananas.
 The goal of the agent is to collect as many yelllow bananas as possible. A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.
