@@ -7,7 +7,7 @@ We get to a maximum average score over 100 episodes of 15.0 in more or less 5 mi
   * Learning Rate: 5e-4
   * Batch Size: 64 
 
-The model architecture is three fully connected layers. Each hidden layer is followed by a rectifier nonlinearity - max(0, x)
+The model architecture is three fully connected layers. The two first hidden layers are followed by a rectifier nonlinearity (max(0, x)).
 
 Using the same hyperparameter except for the Epsilon Decay (which we dropped to 0.85), we've reached the maximum average score over 100 episodes of 15.0 in more or less 7 minutes (using CPU)
 
