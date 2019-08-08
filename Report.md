@@ -34,4 +34,4 @@ The model architecture is three fully connected layers. The two first hidden lay
 
 ## Future Work
 
-While both implemented algorithms work and seem to give great result, it could be interesting to implement both prioritized experience replay and dueling network architectures. There is also multi-step bootstrap targets, distributional DQN, noisy DQN and the combination of all six methods corresponding to the Rainbow approach.
+While both implemented algorithms work and seem to give great results, it could be interesting to implement both prioritized experience replay and dueling network architectures. There is also multi-step bootstrap targets, distributional DQN, noisy DQN and the combination of all six methods corresponding to the Rainbow approach that could be implemented in the future.
